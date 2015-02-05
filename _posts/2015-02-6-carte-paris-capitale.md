@@ -1,5 +1,5 @@
 ---
-title: Les cartes Paris, Capitale de la Terre
+title: Les cartes Paris
 layout: basic
 category: Paris
 ---
