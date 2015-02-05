@@ -7,9 +7,9 @@ layout: front
 Hello World!
 ===============
 
-####It's a beautiful day in [Lujiazui](http://en.wikipedia.org/wiki/Lujiazui)
+####[Paris](http://en.wikipedia.org/wiki/Paris) Capitale de la Terre
 
-![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412525982/IMG_4221_za4ccb.jpg)
+![My helpful screenshot](http://res.cloudinary.com/dypmlbrmv/image/upload/v1423167821/paris1_w1umaw.jpg)
 
 
 
