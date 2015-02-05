@@ -507,7 +507,7 @@ body {
   color: #666;
   font-weight: 300;
   margin: 0px;
-  padding: 0px 0 20px 0px;
+  padding: 20px 0 20px 0px;
   background: url(../images/body-background.png) #eae6d1;
 }
 
@@ -855,6 +855,7 @@ footer {
   position: fixed;
   left: 50%;
   margin-left: -530px;
+  margin-top: 100px;
   bottom: 20px;
   text-align: right;
   line-height: 16px;
@@ -982,29 +983,5 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444;
-  }
-}
-@media print, screen and (max-height: 680px) {
-  footer {
-    text-align: center;
-    margin: 20px auto;
-    position: relative;
-    left: auto;
-    bottom: auto;
-    width: auto;
-  }
-}
-@media print, screen and (max-height: 480px) {
-  nav {
-    display: none;
-  }
-
-  footer {
-    text-align: center;
-    margin: 20px auto;
-    position: relative;
-    left: auto;
-    bottom: auto;
-    width: auto;
   }
 }
